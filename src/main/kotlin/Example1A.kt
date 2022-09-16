@@ -1,5 +1,6 @@
 import kotlin.concurrent.thread
 
+// These examples are referred from this video :https://www.youtube.com/watch?v=lmRzRKIsn1g
 fun main() {
     println("Main program starts on thread : ${Thread.currentThread().name}")
 
